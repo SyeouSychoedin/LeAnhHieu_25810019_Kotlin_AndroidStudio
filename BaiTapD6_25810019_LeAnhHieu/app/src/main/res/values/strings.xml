@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaiTapD6_25810019_LeAnhHieu</string>
+    <string name="noodle">Noodle</string>
+    <string name="salad">Salad</string>
+    <string name="simplecook">SimpleCook</string>
+    <string name="ultrasalad">UltraSalad</string>
+    <string name="ultrasaladv2">UltraSaladv2</string>
+    <string name="yolkbread">YolkBread</string>
+</resources>
